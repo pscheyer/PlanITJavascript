@@ -1,0 +1,7 @@
+project:
+    type: rest
+    resource: Flyers\PlanITBundle\Controller\ProjectController
+
+user:
+    type: rest
+    resource: Flyers\PlanITBundle\Controller\UserController
